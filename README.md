@@ -15,7 +15,7 @@
 
 🌐 **Website:** https://winoptima.es
 
-⬇️ **Download:** https://github.com/TU_USUARIO/winoptima-app/releases/latest
+⬇️ **Download:** https://github.com/winoptima/winoptima-app/releases/latest
 
 </div>
 
@@ -70,7 +70,7 @@ Whether you're a gamer looking for lower latency and smoother gameplay or a user
 
 Download the latest version:
 
-https://github.com/TU_USUARIO/winoptima-app/releases/latest
+https://github.com/winoptima/winoptima-app/releases/latest
 
 ---
 
