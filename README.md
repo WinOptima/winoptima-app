@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-Proprietary-red)](#)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 
-![WinOptima Dashboard](screenshots/dashboard.webp)
+![WinOptima Dashboard](dashboard.webp)
 
 **Optimize Windows safely with backups, debloating tools, performance tweaks and real-time monitoring.**
 
