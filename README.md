@@ -8,6 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-x64-success)](#)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](#)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
+[![Version](https://img.shields.io/badge/Version-5.0.1-blue)](https://github.com/WinOptima/winoptima-setup/releases/latest)
 
 ![WinOptima Dashboard](/dashboardd.webp)
 
@@ -15,9 +16,20 @@
 
 🌐 **Website:** https://winoptima.es
 
-⬇️ **Download:** https://github.com/winoptima/winoptima-app/releases/latest
+⬇️ **Download:** https://github.com/WinOptima/winoptima-setup/releases/latest
 
 </div>
+
+---
+
+## 🆕 What's new in 5.0.1
+
+- 🎮 **Improved Game Boost:** while you play, Windows switches to the *Best performance* power mode (with the Balanced plan) and heavy background apps (browsers, cloud sync, chat apps, Wallpaper Engine…) get lower priority. Everything is restored automatically when the game closes.
+- ⚡ **Faster startup** and stable navigation when switching sections quickly.
+- 🧠 Fixed a memory leak in Registry Cleaner.
+- 🔒 **Security:** hardened license system, extra protection against executable tampering and upgrade to Electron 33.
+
+> **PRO users:** after updating, open WinOptima once with an internet connection so your license can be revalidated.
 
 ---
 
@@ -65,12 +77,12 @@ Whether you're a gamer looking for lower latency and smoother gameplay or a user
 ## 📥 Installation
 
 1. Download the latest release from the Releases section.
-2. Run `WinOptimaSetup.exe`.
+2. Run `WINOPTIMA-Setup-5.0.1.exe`.
 3. Launch WinOptima and start optimizing your system.
 
 Download the latest version:
 
-https://github.com/winoptima/winoptima-app/releases/latest
+https://github.com/WinOptima/winoptima-setup/releases/latest
 
 ---
 
